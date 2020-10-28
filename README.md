@@ -18,6 +18,12 @@ Also please edit main.py and set the path to chrome driver e.g.
  driver = webdriver.Chrome('C:\gecko\chromedriver.exe')
 ```
 
+How to run it from command line:
+
+```
+python main.py
+```
+
 Procedure:
 
 Repeat below until succesfull loading of price list or retry_count exceeded
